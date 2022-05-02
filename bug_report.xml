@@ -1,19 +1,13 @@
-
+<?xml version="1.0"?>
 <ID>1</ID>
-  
-        "Summary" : "When clicking on the 'Update' button, the product is not added to the minicart from the product page" ,
-  
-        "Step to reproduce" : "Open the website page: http://astrio-spa.dev-mage3.com/venia-accessories.html Open the product card. Add item to cart",
-  
-        "Result" : "A pop-up window does NOT appear stating that the item has been added to the cart. The cart counter has NOT increased by the number of items added to the cart. There is no item in the cart",
-  
-	"Expected result" : "A pop-up window appears stating that the product has been added to the cart. The cart counter has increased by the number of items added to the cart. The item has been added to the cart",
-  
-	"Reproducibility" : "Not on all product pages",
-  
-	"Severity" : "Critical",
-  
-	"Priority" : "High(1)",
-  
-	"Environment" : "Windows 7 x64 Google Chrome Version 96.0.4664.45, (64 bit)"
+<Summary>When clicking on the 'Update' button, the product is not added to the minicart from the product page</Summary>
+<StepToReproduce>Open the website page: http://astrio-spa.dev-mage3.com/venia-accessories.html Open the product card. Add item to cart</StepToReproduce>
+<Result>A pop-up window does NOT appear stating that the item has been added to the cart. The cart counter has NOT increased by the number of items added to the cart. 
+	There is no item in the cart</Result>
+<ExpectedResult>A pop-up window appears stating that the product has been added to the cart. The cart counter has increased by the number of items added to the cart. 
+	The item has been added to the cart</ExpectedResult>
+<Reproducibility>Not on all product pages</Reproducibility>
+<Severity>Critical</Severity>
+<Priority>High(1)</Priority>
+<Environment>Windows 7 x64 Google Chrome Version 96.0.4664.45, (64 bit)</Environment>
 
